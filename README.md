@@ -1,6 +1,6 @@
 # Welcome to My GitHub Profile
 
-Hi, I'm Zac. I'm a developer with a passion for creating projects that better my life. Here you can find an overview of my most recent work in a bootcamp through Dev Academy Aotearoa.
+Hi, I'm Zac. I'm a developer with a passion for creating projects that better my life, and hopefully others too. Here you can find an overview of my most recent work in a bootcamp through Dev Academy Aotearoa.
 
 ## About Me
 
