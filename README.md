@@ -8,8 +8,8 @@ Hi, I'm Zac. I'm a developer with a passion for creating projects that better my
 - Recent bootcamp focusing on JS, React, Express, SQLite3 through Dev Academy Aotearoa.
 - I dabbled with lua since I was a teen, loved the analytical problem solving side of things. Didn't want to live in tiny cubicle though.
 - Found out the steriotype is completely off point, am highly enthusiastic and engaged with coding now.
-- 🌱 I’m currently really delving into React. It seems useful, super useful.
-- 🤔 I have personal project that should deployed and usable by me, and the world! Very soon. MVP is complete, just getting my hands on a suitable domain and SSL cert.
+- I’m currently really delving into React. It seems useful, super useful.
+- I have personal project that should deployed and usable by me, and the world! Very soon. MVP is complete, just getting my hands on a suitable domain and SSL cert.
 
 ## Pinned Repositories
 Check out some of my key projects below.
